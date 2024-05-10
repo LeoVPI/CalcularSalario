@@ -1,8 +1,10 @@
 import java.util.Scanner;
-public class Main
-{
+
+public class Main{ 
+
 	public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        
+	Scanner scanner = new Scanner(System.in);
 
         float salario;
         float inflacao = 0.038f;
